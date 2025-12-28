@@ -43,6 +43,9 @@
         "disable2FA": {
             "title": "İki Faktörlü Kimlik Doğrulamayı Devre Dışı Bırak",
             "description": "İki faktörlü kimlik doğrulamayı devre dışı bırakmak istediğinizden emin misiniz?"
+        },
+        "changePassword": {
+            "title": "Şifreyi Değiştir"
         }
     },
     "buttons": {
@@ -52,7 +55,19 @@
         "dateOfBirth": "Doğum Tarihi",
         "username": "Kullanıcı Adı",
         "email": "E-posta Adresi",
-        "displayName": "Görünen Ad"
+        "displayName": "Görünen Ad",
+        "currentPassword": {
+            "label": "Mevcut Şifre",
+            "placeholder": "Mevcut şifrenizi girin"
+        },
+        "newPassword": {
+            "label": "Yeni Şifre",
+            "placeholder": "Yeni şifrenizi girin"
+        },
+        "confirmPassword": {
+            "label": "Yeni Şifreyi Onayla",
+            "placeholder": "Yeni şifrenizi tekrar girin"
+        }
     },
     "messages": {
         "twoFA": {
