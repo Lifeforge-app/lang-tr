@@ -22,7 +22,8 @@
         "keyDescription": "Anahtar Açıklaması",
         "keyIcon": "Anahtar İkonu",
         "apiKey": "API Anahtarı",
-        "keyId": "Anahtar ID"
+        "keyId": "Anahtar ID",
+        "isExposable": "Açığa Çıkarılabilir mi"
     },
     "items": {
         "apiKey": "API Anahtarı"

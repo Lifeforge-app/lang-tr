@@ -8,6 +8,10 @@
         "noBackups": {
             "title": "Yedek Bulunamadı",
             "description": "Kullanılabilir yedek yok. Yukarıdaki düğmeyi kullanarak yeni bir tane oluşturun."
+        },
+        "toBeImplemented": {
+            "title": "Yeniden Uygulanacak",
+            "description": "Yedekleme geri yükleme işlevi çok yakında tekrar eklenecek."
         }
     },
     "modals": {
