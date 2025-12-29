@@ -12,6 +12,10 @@
         "apiKey": {
             "create": "API Anahtarı Oluştur",
             "update": "API Anahtarını Güncelle"
+        },
+        "modulesRequired": {
+            "title": "Gerekli Modüller",
+            "totalModulesRequire": "Toplam {{count}} modül bu API Anahtarını gerektiriyor."
         }
     },
     "buttons": {
@@ -34,5 +38,11 @@
             "title": "API Anahtarı Yok",
             "description": "API anahtarı bulunamadı. Yeni bir API anahtarı oluşturmak için aşağıdaki düğmeye tıklayın"
         }
+    },
+    "misc": {
+        "requiredBy": "Gereken: {{count}} modül",
+        "lastUpdated": "Son güncelleme: {{time}}",
+        "exposable": "Açığa Çıkarılabilir",
+        "internalOnly": "Yalnızca Dahili"
     }
 }
