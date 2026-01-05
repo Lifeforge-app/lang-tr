@@ -1,0 +1,13 @@
+{
+  "name": "@lifeforge/lang-tr",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lifeforge-app/lang-tr"
+  },
+  "description": "Türkçe language support for LifeForge.",
+  "lifeforge": {
+    "displayName": "Türkçe",
+    "icon": "circle-flags:tr"
+  }
+}
