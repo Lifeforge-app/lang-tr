@@ -69,5 +69,8 @@
     },
     "misc": {
         "translations": "Çeviriler"
+    },
+    "notBuilt": {
+        "label": "Hazırlanmamış"
     }
 }
